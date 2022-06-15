@@ -1,7 +1,5 @@
 package com.ironion.singleton;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 /**
  * 静态内部类
  *

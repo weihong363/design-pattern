@@ -1,9 +1,9 @@
 package com.ironion.prototype;
 
-import com.ironion.prototype.model.Circle;
-import com.ironion.prototype.model.Rectangle;
-import com.ironion.prototype.model.Shape;
-import com.ironion.prototype.model.Square;
+import com.ironion.prototype.entity.Circle;
+import com.ironion.prototype.entity.Rectangle;
+import com.ironion.prototype.entity.Shape;
+import com.ironion.prototype.entity.Square;
 
 import java.util.HashMap;
 import java.util.Map;

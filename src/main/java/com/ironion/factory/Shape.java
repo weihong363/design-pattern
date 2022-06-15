@@ -1,4 +1,4 @@
-package com.ironion.factory.service;
+package com.ironion.factory;
 
 /**
  * @author ironion

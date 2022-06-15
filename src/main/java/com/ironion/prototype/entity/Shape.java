@@ -1,4 +1,4 @@
-package com.ironion.prototype.model;
+package com.ironion.prototype.entity;
 
 /**
  * @author ironion

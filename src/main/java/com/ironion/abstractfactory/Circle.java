@@ -1,6 +1,6 @@
-package com.ironion.factory.service.impl;
+package com.ironion.abstractfactory;
 
-import com.ironion.factory.service.Shape;
+import com.ironion.abstractfactory.Shape;
 
 /**
  * @author ironion

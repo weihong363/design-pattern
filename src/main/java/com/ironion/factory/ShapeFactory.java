@@ -1,10 +1,5 @@
 package com.ironion.factory;
 
-import com.ironion.factory.service.Shape;
-import com.ironion.factory.service.impl.Circle;
-import com.ironion.factory.service.impl.Rectangle;
-import com.ironion.factory.service.impl.Square;
-
 /**
  * @author ironion
  * @date 2022/6/13 10:41

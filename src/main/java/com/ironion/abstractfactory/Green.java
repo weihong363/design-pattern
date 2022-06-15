@@ -1,6 +1,6 @@
-package com.ironion.abstractfactory.service.impl;
+package com.ironion.abstractfactory;
 
-import com.ironion.abstractfactory.service.Color;
+import com.ironion.abstractfactory.Color;
 
 /**
  * @author ironion

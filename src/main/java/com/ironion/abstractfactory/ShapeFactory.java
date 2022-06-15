@@ -1,10 +1,9 @@
 package com.ironion.abstractfactory;
 
-import com.ironion.abstractfactory.service.Color;
-import com.ironion.factory.service.Shape;
-import com.ironion.factory.service.impl.Circle;
-import com.ironion.factory.service.impl.Rectangle;
-import com.ironion.factory.service.impl.Square;
+import com.ironion.factory.Shape;
+import com.ironion.factory.Circle;
+import com.ironion.factory.Rectangle;
+import com.ironion.factory.Square;
 
 /**
  * @author ironion

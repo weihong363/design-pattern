@@ -12,5 +12,6 @@ public class SingletonPatternDemo {
         System.out.println(SyncLazy.getInstance().hashCode() + "..." + SyncLazy.getInstance().hashCode());
         System.out.println(DoubleCheckLock.getInstance().hashCode() + "..." + DoubleCheckLock.getInstance().hashCode());
         System.out.println(Enumerate.INSTANCE.hashCode() + "..." + Enumerate.INSTANCE.hashCode());
+        System.out.println(StaticInner.getInstance().hashCode() + "..." + StaticInner.getInstance().hashCode());
     }
 }
